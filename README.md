@@ -75,4 +75,4 @@ The system will display whether the email is a phishing attempt or safe based on
 ## 🌐 Connect with Me 
 
 - 📧 [Email](imaadsharieff266@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/mohammed-imaad-sharieff-08891a238)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-imaad-sharieff-08891a238/)
