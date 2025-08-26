@@ -124,5 +124,10 @@ def main():
             train_model(data)
             st.write("Model trained and saved successfully!")
 
+    if st.sidebar.button("Health Check"):
+        st.json({"status": "ok"})
+
+
 if __name__ == '__main__':
     main()
+
